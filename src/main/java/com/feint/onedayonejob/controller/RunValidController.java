@@ -8,6 +8,6 @@ public class RunValidController {
 
     @RequestMapping("/valid")
     public String valid(){
-        return "one-day-one-job";
+        return "one-day-one-job success";
     }
 }
